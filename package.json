@@ -38,6 +38,7 @@
     "express": "^4.17.2",
     "express-jwt": "^7.7.5",
     "express-jwt-authz": "^2.4.1",
+    "gh-pages": "^6.1.0",
     "jwks-rsa": "^2.1.5",
     "knex": "^2.5.1",
     "moment": "^2.29.4",
